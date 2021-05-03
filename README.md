@@ -1,3 +1,6 @@
+## You can view my website here!
+https://emeyer79.github.io/Web-Design-Challenge/index.html
+
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
